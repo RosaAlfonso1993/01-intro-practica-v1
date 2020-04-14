@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.ejercicio1;
+package ar.edu.unahur.obj2.Ejercicio1;
 
 public class Ejercicio1 {
 
